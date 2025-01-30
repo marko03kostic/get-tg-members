@@ -1,3 +1,5 @@
+A script for retrieving Telegram group members.
+
 ### To get started:
 
 1. **Clone the project:**
